@@ -1,0 +1,5 @@
+*.log
+*.tvc
+*.abi.json
+*__pycache__*
+*venv*
